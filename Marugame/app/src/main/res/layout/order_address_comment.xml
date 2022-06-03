@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardElevation="4dp"
+    >
+
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/edtAddress"
+                android:hint="Meja Berapa?"
+                android:textColorHint="@color/colorPrimary"
+                android:text=""
+                android:textColor="@color/colorPrimary"
+                android:textSize="34sp"
+                android:inputType="text"
+                app:floatingLabel="highlight"
+                app:singleLineEllipsis="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/edtComment"
+                android:hint="Comment"
+                android:textColorHint="@color/colorPrimary"
+                android:text=""
+                android:textColor="@color/colorPrimary"
+                android:textSize="34sp"
+                android:inputType="textMultiLine"
+                app:floatingLabel="highlight"
+                app:singleLineEllipsis="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+</androidx.cardview.widget.CardView>

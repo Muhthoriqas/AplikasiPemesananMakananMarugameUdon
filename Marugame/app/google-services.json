@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "777214444107",
+    "project_id": "marugame-b9d7e",
+    "storage_bucket": "marugame-b9d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777214444107:android:c649ae7f1af6c1404a43ce",
+        "android_client_info": {
+          "package_name": "com.example.marugame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777214444107-dunvfr5pul4amr7itjh9cf9d8tucmj24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marugame",
+            "certificate_hash": "b91856e561f4a62d2c89462fcdf510d0c6d15c14"
+          }
+        },
+        {
+          "client_id": "777214444107-cq178qcd0k92bcdql0vji02qd1vekl5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9neakVl2yw0A33taJMzOGhRiJyS_JL3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777214444107-cq178qcd0k92bcdql0vji02qd1vekl5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
