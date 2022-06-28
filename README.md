@@ -1,3 +1,5 @@
+#Note: application Unable To Use Because I Disabled Database !
+
 # AplikasiPemesananMakananMarugameUdon
 Aplikasi pemesanan makanan di rumah makan marugame udon , terdapat 2 Aplikasi yang terhubung pada 1 Firebase:
 
