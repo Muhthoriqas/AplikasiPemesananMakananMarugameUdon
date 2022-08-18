@@ -1,8 +1,6 @@
-# Note: Application Unable To Use Because I Disabled Database ! Edit 28 Jun 2022
+The food ordering application at the marugame udon restaurant, there are 2 applications connected to 1 Firebase:
 
-Aplikasi pemesanan makanan di rumah makan marugame udon , terdapat 2 Aplikasi yang terhubung pada 1 Firebase:
+1. Application for users/buyers
+2. Special Application For Admin
 
-1. Aplikasi untuk pengguna/pembeli
-2. Aplikasi Khusus Untuk Admin
-
-INFO PASSWORD USER DAN ADMIN
+If you want to clone or use this repostory, use your own database! .
